@@ -34,7 +34,7 @@ export default function Home() {
           </p>
           <div className='flex items-center self-start mt-2'>
             <Link href="" download={true} className='flex items-center bg-dark text-light p-2.5 px-6 rounded text-lg font-semibold hover:bg-light hover:text-dark border-2 border-solid border-transparent hover:border-dark'>Download Resume 
-              <LinkArrow className={"w-6 ml-1"}/>
+              <LinkArrow className={"!w-6 !ml-1"}/>
             </Link>
             <Link 
             className='ml-4 text-lg font-medium capitalize text-dark underline'
